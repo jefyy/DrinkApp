@@ -37,7 +37,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p>Cocktail Recipes is a small application based on modern Android application libraries(Android Jetpack) and MVVM architecture.
+<p>Cocktail Recipes is a small application based on modern Android application libraries(Android Jetpack), dependency injection, and MVVM architecture.
  This application was created to focus on Android Jetpack, study of depenedency injections, and data fetching with retrofit.The application allows you to search drinks, view recently popular drinks, and save favorite drinks for offline access.  
 
 </p>
